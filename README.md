@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/soham24feb" target="blank"><img src="https://img.shields.io/twitter/follow/soham24feb?logo=twitter&style=for-the-badge" alt="soham24feb" /></a> </p>
 
-- I’m currently working on **Machine Learning projects**
+- I’m currently working at **Empire Global Ltd.** as a **Full-Stack Developer**
 
 - I'm currently learning **Backend Web Development**
 
